@@ -11,5 +11,6 @@
 2. docker-compose.yml;
 3. Dockerfile;
 
-Запуск решения:
+
+ЗАПУСК РЕШЕНИЯ:
 bash launch_project.sh
